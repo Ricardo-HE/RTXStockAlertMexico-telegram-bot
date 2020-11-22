@@ -1,1 +1,1 @@
-# GpuNowInStockMexicanRetails-telegramBot
+# RTX3070StockAlertMexico-telegram-bot
