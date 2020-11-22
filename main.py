@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 from urllib.parse import urlparse
 
-REQUEST_TIME = 5  # seconds
+REQUEST_TIME = 420
 
 URLS = ['https://ddtech.mx/producto/tarjeta-de-video-nvidia-geforce-rtx-3070-8gb-evga-ftw3-ultra-gaming-08g-p5-3767-kr-solo-1-por-cliente',
         'https://ddtech.mx/producto/tarjeta-de-video-nvidia-geforce-rtx-3070-8gb-gigabyte-vision-oc-gv-n3070vision-oc-8gd-solo-1-por-cliente',
